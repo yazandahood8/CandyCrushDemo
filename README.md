@@ -1,20 +1,17 @@
-# Candy Crush Demo
+Candy Crush Demo
+Welcome to the Candy Crush Demo! This is a Java-based simulation of the popular Candy Crush game, showcasing core gameplay mechanics and interactive features using Java Swing.
 
-Welcome to the **Candy Crush Demo**! This is a Java-based simulation of the popular Candy Crush game, showcasing core gameplay mechanics and interactive features using Java Swing.
+Key Features
+Grid-Based Layout: A dynamic grid where candies can be swapped and matched.
+Smooth Animations: Visual effects for candy movement and matching.
+Image Handling: Efficient use of BufferedImage for high-quality graphics.
+Sound Effects: Engaging background music and sound effects for a fun experience.
+Installation
+Clone the Repository:
 
-## Key Features
-
-- **Grid-Based Layout:** A dynamic grid where candies can be swapped and matched.
-- **Smooth Animations:** Visual effects for candy movement and matching.
-- **Image Handling:** Efficient use of `BufferedImage` for high-quality graphics.
-- **Sound Effects:** Engaging background music and sound effects for a fun experience.
-
-## Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yazandahood8/CandyCrushDemo.git
+bash
+Copy code
+git clone https://github.com/yazandahood8/CandyCrushDemo.git
 Navigate to the Project Directory:
 
 bash
