@@ -62,9 +62,6 @@ We welcome contributions! To get involved:
     ```
 5. Submit a Pull Request.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgments
 - **Java Swing**: For the graphical user interface.
 - **BufferedImage**: For efficient image handling.
